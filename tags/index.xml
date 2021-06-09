@@ -11,11 +11,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 09 Jun 2021 10:11:55 +0530</lastBuildDate><atom:link href="https://agajareiitr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>https://agajareiitr.github.io/tags/first/</link>
+      <title>aws</title>
+      <link>https://agajareiitr.github.io/tags/aws/</link>
       <pubDate>Wed, 09 Jun 2021 10:11:55 +0530</pubDate>
       
-      <guid>https://agajareiitr.github.io/tags/first/</guid>
+      <guid>https://agajareiitr.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://agajareiitr.github.io/tags/django/</link>
+      <pubDate>Wed, 09 Jun 2021 10:11:55 +0530</pubDate>
+      
+      <guid>https://agajareiitr.github.io/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://agajareiitr.github.io/tags/python/</link>
+      <pubDate>Wed, 09 Jun 2021 10:11:55 +0530</pubDate>
+      
+      <guid>https://agajareiitr.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://agajareiitr.github.io/tags/ssl/</link>
+      <pubDate>Wed, 09 Jun 2021 10:11:55 +0530</pubDate>
+      
+      <guid>https://agajareiitr.github.io/tags/ssl/</guid>
       <description></description>
     </item>
     
