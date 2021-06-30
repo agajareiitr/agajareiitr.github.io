@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Python on Akash Gajare</title>
-    <link>https://agajareiitr.github.io/tags/python/</link>
-    <description>Recent content in Python on Akash Gajare</description>
+    <title>Twilio on Akash Gajare</title>
+    <link>https://agajareiitr.github.io/tags/twilio/</link>
+    <description>Recent content in Twilio on Akash Gajare</description>
     <image>
       <url>https://agajareiitr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://agajareiitr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Jun 2021 10:11:55 +0530</lastBuildDate><atom:link href="https://agajareiitr.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aws Deploy Django</title>
-      <link>https://agajareiitr.github.io/posts/aws-deploy-django/</link>
-      <pubDate>Wed, 09 Jun 2021 10:11:55 +0530</pubDate>
-      
-      <guid>https://agajareiitr.github.io/posts/aws-deploy-django/</guid>
-      <description>Guide to Deploy the Django Application to AWS</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://agajareiitr.github.io/tags/twilio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Covid19 India Whatsapp Application</title>
       <link>https://agajareiitr.github.io/projects/covid19-india-whatsapp-application/</link>
