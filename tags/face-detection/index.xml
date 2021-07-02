@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Akash Gajare</title>
-    <link>https://agajareiitr.github.io/posts/</link>
-    <description>Recent content in Posts on Akash Gajare</description>
+    <title>face-detection on Akash Gajare</title>
+    <link>https://agajareiitr.github.io/tags/face-detection/</link>
+    <description>Recent content in face-detection on Akash Gajare</description>
     <image>
       <url>https://agajareiitr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://agajareiitr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Jul 2021 10:17:37 +0530</lastBuildDate><atom:link href="https://agajareiitr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 10:17:37 +0530</lastBuildDate><atom:link href="https://agajareiitr.github.io/tags/face-detection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Face Detection using Python &amp; OpenCV</title>
       <link>https://agajareiitr.github.io/posts/face-detector-using-python-and-opencv/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://agajareiitr.github.io/posts/face-detector-using-python-and-opencv/</guid>
       <description>Face Detection using Python &amp;amp; OpenCV</description>
-    </item>
-    
-    <item>
-      <title>Aws Deploy Django</title>
-      <link>https://agajareiitr.github.io/posts/aws-deploy-django/</link>
-      <pubDate>Wed, 09 Jun 2021 10:11:55 +0530</pubDate>
-      
-      <guid>https://agajareiitr.github.io/posts/aws-deploy-django/</guid>
-      <description>Guide to Deploy the Django Application to AWS</description>
     </item>
     
   </channel>
